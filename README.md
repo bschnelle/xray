@@ -44,7 +44,7 @@ We provide a feature-rich editor component that can be used on the web and withi
 
 ## Architecture
 
-Martin Fowler defines software architecture those decisions which are both important and hard to change. Since these decisions are hard to change, we need to be sure that our foundational priorities are well-served by these decisions.
+Martin Fowler defines software architecture as those decisions which are both important and hard to change. Since these decisions are hard to change, we need to be sure that our foundational priorities are well-served by these decisions.
 
 ![Architecture](docs/images/architecture.png)
 
